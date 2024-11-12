@@ -130,3 +130,10 @@ dmypy.json
 
 # Mutation testing cache
 .mutmut-cache
+
+# Tool-specific files
+/poetry.lock
+.idea/
+.aider*
+cardcache
+mtg_mana_simulator/symbology.json
